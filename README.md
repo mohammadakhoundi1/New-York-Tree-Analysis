@@ -26,6 +26,7 @@ Data analysis is performed to gain insights from the preprocessed data.
 
 ### Data Visualization
 ![image](https://github.com/user-attachments/assets/8c7ed515-9657-4dcc-afc9-f04e4766c85f)
+![image](https://github.com/user-attachments/assets/90422cee-21e3-4de8-a156-9f30186b26ca)
 
 ## Dataset
 
